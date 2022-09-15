@@ -2,7 +2,6 @@ package org.craftedsw.tripservicekata.trip;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
